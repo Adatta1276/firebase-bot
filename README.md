@@ -1,4 +1,4 @@
 # firebase-bot
 a simple FireBase Database Creating Bot. 
 
-```To install, just run the code in a live server```
+```To install, just download the zip file, unzip,  and run the code in a live server```
